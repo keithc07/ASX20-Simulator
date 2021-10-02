@@ -3,11 +3,11 @@ include Price_list
 
 module Resources 
   def buy_sentence
-    puts "\nPlease input the number of shares to " + Rainbow("PURCHASE").springgreen.bright + ":" + Rainbow("(Only Integer is allowed)").red.bright
+    puts "\nPlease input the number of shares to " + Rainbow("PURCHASE").springgreen.bright + ":" + Rainbow("(Only Integers are recognised)").red.bright
   end
 
   def sell_sentence
-    puts "\nPlease input the number of shares to " + Rainbow("SELL").springgreen.bright + ":" + Rainbow("(Only Integer is allowed)").red.bright
+    puts "\nPlease input the number of shares to " + Rainbow("SELL").springgreen.bright + ":" + Rainbow("(Only Integers are recognised)").red.bright
   end
 
   def info(name)
