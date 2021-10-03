@@ -131,7 +131,7 @@ If the users input invalid number of shares, the app will calculate the invalid 
 
 
 
-![diagram](./docs/diagram.png)
+![diagram](./docs/diagram1.png)
 
 #### **Implementation Plan**
 
